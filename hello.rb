@@ -1,1 +1,1 @@
-puts "hello github"
+puts "hell 2017年1月10日"
