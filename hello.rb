@@ -1,1 +1,1 @@
-puts "hell 2017年1月10日"
+puts "hello 2017年1月10日"
